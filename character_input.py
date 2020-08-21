@@ -1,5 +1,4 @@
-# 325p
-
+#new 
 name = input('Please type in your name: ')
 age = int(input('Please tell us your age: '))
 
